@@ -1,0 +1,12 @@
+raw_data/*
+*.pt
+.ipynb_checkpoints/*
+*.txt
+*.tsv
+logs/*
+*.ckpt
+wandb/*
+wandb/*.log
+api_key.txt
+.env
+twitter_credentials.json
